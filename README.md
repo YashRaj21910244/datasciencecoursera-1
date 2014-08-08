@@ -4,7 +4,7 @@ datasciencecoursera repo
 New repository to create for assignment of Data Scientist Toolbox course
 ------------------------
 
-###Assignmen is 
+* Assignmen is 
 
 
 1. Install R 
@@ -12,7 +12,7 @@ New repository to create for assignment of Data Scientist Toolbox course
 3. Open Rstudio and take a screenshot
 4. Submit a screenshot of Rstudio open on your screen using one of these formats: png, jpg, gif, pdf
 
-Be careful not to have personally identifiable or important information visible in the screen shot!
+* Be careful not to have personally identifiable or important information visible in the screen shot!
 
 
 This assignment is designed to make sure you have done the basic software setup that will get you through the rest of the Data Science Specialization. Each component will be evaluated on a yes/no basis by your peers with 10 points assigned for each yes answer. 
