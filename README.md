@@ -2,14 +2,16 @@ datasciencecoursera repo
 ========================
 
 New repository to create for assignment of Data Scientist Toolbox course
+------------------------
 
-Assignmen is 
--------------
+###Assignmen is 
+
 
 1. Install R 
 2. Install Rstudio
 3. Open Rstudio and take a screenshot
 4. Submit a screenshot of Rstudio open on your screen using one of these formats: png, jpg, gif, pdf
+
 Be careful not to have personally identifiable or important information visible in the screen shot!
 
 
