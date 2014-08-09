@@ -1,14 +1,14 @@
 datasciencecoursera repo
 ========================
 
-New repository to create for assignment of Data Scientist Toolbox course
+New repository for course project assignment of Data Scientist's Toolbox course
 ------------------------
 
 ### Course Project
 
 This assignment is designed to make sure you have done the basic software setup that will get you through the rest of the Data Science Specialization. Each component will be evaluated on a yes/no basis by your peers with 10 points assigned for each yes answer. 
 
-The 1st component ask you to do as follows;
+The 1st component asks you to do as follows;
   1. Install R 
   2. Install Rstudio
   3. Open Rstudio and take a screenshot
@@ -16,18 +16,18 @@ The 1st component ask you to do as follows;
 
 * Be careful not to have personally identifiable or important information visible in the screen shot!
 
-The 2nd is;
+The 2nd one;
   1. Set up a Github account (you may use your own name or a pseudonym).
   2. Create a repo called datasciencecoursera
   3. Submit the link to your GitHub account (or a direct link to your datasciencecoursera repo)
 
-The 3rd is;
+The 3rd one;
   1. Create a text file called HelloWorld.md
   2. Add the line "## This is a markdown file" (without the quotation marks) to the document
   3. Push the document to the datasciencecoursera repo you created on Github
   4. Submit the link to the HelloWorld.md file on your Github repo. 
 
-The 4th is;
+The 4th one;
   1. Fork the data sharing repository here: https://github.com/jtleek/datasharing
   2. Submit the link to the forked repository on your Github account. 
 
